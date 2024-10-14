@@ -1,0 +1,35 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-image: url(https://www.railbaltica.org/wp-content/uploads/2021/12/210721_1499_ext04_Image-by-negativ-scaled.jpeg);
+    color: aliceblue;
+    margin: 0 auto;
+    height: 100vh;
+
+}
+
+#increment-btn{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: brown;
+    margin: 0 auto;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+}
+#save-btn{
+    margin-top: 10px;
+    background-color: green;
+    border: none;
+    padding: 10px 10px 10px ;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+div{
+    background-color: rgb(9, 54, 80);
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
